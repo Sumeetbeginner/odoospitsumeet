@@ -1,5 +1,7 @@
 # StockMaster - Inventory Management System
 
+**Prototype Video**: [https://youtu.be/Ytv3grC1t0w?si=TJE7PONLnnI12PRi](https://youtu.be/Ytv3grC1t0w?si=TJE7PONLnnI12PRi)
+
 **Hackathon**: Odoo X SPIT Hackathon
 **Team**: Neurabytes
 **Members**: Sumeet Gupta, Pankaj Chaudhary, Harsh Yadav
